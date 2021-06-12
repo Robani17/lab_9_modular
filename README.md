@@ -39,6 +39,10 @@ keduanya memiliki template yang sama dengan mengconnectkan 1 file css
 ![WhatsApp Image 2021-06-12 at 22 01 00](https://user-images.githubusercontent.com/81969264/121780350-0dc86000-cbca-11eb-8a8c-dab48d5c4843.jpeg)
 
 
+## LINK PRAKTIKUM 10
+https://github.com/Robani17/Lab10Web.git
+
+
 
 
 
